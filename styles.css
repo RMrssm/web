@@ -1,6 +1,6 @@
 /* 主体部分是浏览器找到body标签后触发以下5个效果 */
 body {
-    font-family: Times New Roman; /* 设置字体为Arial */
+    font-family: Times New Roman , serif; /* 设置字体为Arial */
     background-color: #E36F85; /* 设置背景颜色为浅灰色 */
     color: #003C75; /* 设置文本颜色为深灰色 */
     margin: 0; /* 页面外边距设为0，也就是本行与上下行之间距离 */
